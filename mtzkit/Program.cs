@@ -11,6 +11,7 @@ namespace mtzkit
         static void Main(string[] args)
         {
             Console.WriteLine("Лабораторне завдання номер п'ять виконане!");
+            Console.WriteLine("Лабораторна 6!");
 
         }
     }
