@@ -10,7 +10,7 @@ namespace mtzkit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Лабораторна робота N5");
+            Console.WriteLine("Лабораторне завдання номер п'ять виконане!");
 
         }
     }
